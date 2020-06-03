@@ -1,0 +1,36 @@
+## data/movie_list_200602.csv
+meta_title           : 한글 메타 제목  
+sub_title            : 한글 메타 부제목  
+engl_title           : 영문 메타 제목  
+open_dy              : 개봉일(yyyymmdd)  
+dmst_spct_cnt        : 관객수(메타생성시점-영진위에등록된관객수)
+
+## movie_list_preprocessing_20200603222243.csv
+meta_title           : 한글 메타 제목  
+sub_title            : 한글 메타 부제목  
+engl_title           : 영문 메타 제목  
+open_dy              : 개봉일(yyyymmdd)  
+dmst_spct_cnt        : 관객수(메타생성시점-영진위에등록된관객수)
+nongap_meta_title    : 공백 제거 한글 메타 제목  
+nongap_engl_title    : 공백 제거 영문 메타 제목  
+nonsc_meta_title     : 특수 문자 제거 한글 메타 제목  
+nongap_nonsc_meta_title : 특수 문자/공백 제거 한글 메타 제목  
+nonsc_engl_title        : 특수 문자 제거 영문 메타 제목 
+nongap_nonsc_engl_title : 특수 문자/공백 제거 영 메타 제목   
+meta_title_split_1   : 음절단위 분할 한글 메타 제목 1 
+meta_title_split_2   : 음절단위 분할 한글 메타 제목 2  
+meta_title_split_3   : 음절단위 분할 한글 메타 제목 3  
+meta_title_split_4   : 음절단위 분할 한글 메타 제목 4 
+meta_title_split_5   : 음절단위 분할 한글 메타 제목 5 
+meta_title_split_6   : 음절단위 분할 한글 메타 제목 6   
+meta_title_split_7   : 음절단위 분할 한글 메타 제목 7 
+meta_title_split_8   : 음절단위 분할 한글 메타 제목 8 
+meta_title_split_9   : 음절단위 분할 한글 메타 제목 9 
+meta_title_split_10  : 음절단위 분할 한글 메타 제목 10 
+meta_title_split_11  : 음절단위 분할 한글 메타 제목 11 
+kor_eng_title        : 한글 메타 제목 + (영문 메타 제목) 
+spare_column_1       : 기준 정보 추가 작성 컬럼 1 
+spare_column_2       : 기준 정보 추가 작성 컬럼 2 
+spare_column_3       : 기준 정보 추가 작성 컬럼 3 
+spare_column_4       : 기준 정보 추가 작성 컬럼 4 
+spare_column_5       : 기준 정보 추가 작성 컬럼 5  
